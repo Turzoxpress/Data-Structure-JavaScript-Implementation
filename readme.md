@@ -27,19 +27,19 @@
 
 <p>In an array, elements in memory are arranged in continuous memory. All the elements of an array are of the same type. And, the type of elements that can be stored in the form of arrays is determined by the programming language.</p>
 
-<p>To learn more, visit <a href="/java-programming/arrays">Java Array</a>.</p>
+<p>To learn more, visit <a href="https://www.programiz.com/java-programming/arrays">Java Array</a>.</p>
 
 <figure><img alt="An array" src="//cdn.programiz.com/cdn/farfuture/CvSYKIrQaK-KlCU2PC0qZULI9kZa33XK3-HH1uipQIE/mtime:1623152231/sites/tutorial2program/files/array_.png" title="An array" width="412" height="186"><figcaption>An array with each element represented by an index</figcaption></figure><h3>2. Stack Data Structure</h3>
 
 <p>In stack data structure, elements are stored in the LIFO principle. That is, the last element stored in a stack will be removed first.</p>
 
-<p>It works just like a pile of plates where the last plate kept on the pile will be removed first. To learn more, visit <a href="/dsa/stack">Stack Data Structure</a>.</p>
+<p>It works just like a pile of plates where the last plate kept on the pile will be removed first. To learn more, visit <a href="https://www.programiz.com/dsa/stack">Stack Data Structure</a>.</p>
 
 <figure><img alt="stack" src="//cdn.programiz.com/cdn/farfuture/kDcDcLDytJ7-aLU-7zVQAIiMLfh4TOvi-mZR10hOCFg/mtime:1623152242/sites/tutorial2program/files/stack_dsa.png" title="stack" width="225" height="256"><figcaption>In a stack, operations can be perform only from one end (top here).</figcaption></figure><h3>3. Queue Data Structure</h3>
 
 <p>Unlike stack, the queue data structure works in the FIFO principle where first element stored in the queue will be removed first.</p>
 
-<p>It works just like a queue of people in the ticket counter where first person on the queue will get the ticket first. To learn more, visit <a href="/dsa/queue">Queue Data Structure</a>.<br>
+<p>It works just like a queue of people in the ticket counter where first person on the queue will get the ticket first. To learn more, visit <a href="https://www.programiz.com/dsa/queue">Queue Data Structure</a>.<br>
 	&nbsp;</p>
 
 <figure><img alt="queue" src="//cdn.programiz.com/cdn/farfuture/Li6chlo-utkw-FHPvLC_IiManoc41y1yEpUzwkj8iY8/mtime:1623152237/sites/tutorial2program/files/queue_dsa.png" title="queue" width="353" height="214"><figcaption>In a queue, addition and removal are performed from separate ends.</figcaption></figure><h3>4. Linked List Data Structure</h3>
@@ -47,7 +47,6 @@
 <p>In linked list data structure, data elements are connected through a series of nodes. And, each node contains the data items and address to the next node.</p>
 
 <p></p><div id="block-inject-1" class="block-inject block-inject-1">
-    
     
 
 
@@ -61,28 +60,28 @@
 
 <p>In graph data structure, each node is called vertex and each vertex is connected to other vertices through edges.</p>
 
-<p>To learn more, visit <a href="/dsa/graph">Graph Data Structure</a>.</p>
+<p>To learn more, visit <a href="https://www.programiz.com/dsa/graph">Graph Data Structure</a>.</p>
 
 <figure><img alt="Graph data structure example" src="//cdn.programiz.com/cdn/farfuture/9QtvaweNfvWiBsAgt81aNynEhJXovky4lCoFgyU_Y-0/mtime:1623152219/sites/tutorial2program/files/graph_dsa.png" title="Graph data structure example" width="242" height="242"><figcaption>Graph data structure example</figcaption></figure><p><strong>Popular Graph Based Data Structures:</strong></p>
 
-<ul><li><a href="/dsa/spanning-tree-and-minimum-spanning-tree">Spanning Tree and Minimum Spanning Tree</a></li>
-	<li><a href="/dsa/strongly-connected-components">Strongly Connected Components</a></li>
-	<li><a href="/dsa/graph-adjacency-matrix">Adjacency Matrix</a></li>
-	<li><a href="/dsa/graph-adjacency-list">Adjacency List</a></li>
+<ul><li><a href="https://www.programiz.com/dsa/spanning-tree-and-minimum-spanning-tree">Spanning Tree and Minimum Spanning Tree</a></li>
+	<li><a href="https://www.programiz.com/dsa/strongly-connected-components">Strongly Connected Components</a></li>
+	<li><a href="https://www.programiz.com/dsa/graph-adjacency-matrix">Adjacency Matrix</a></li>
+	<li><a href="https://www.programiz.com/dsa/graph-adjacency-list">Adjacency List</a></li>
 </ul><h3>2. Trees Data Structure</h3>
 
 <p>Similar to a graph, a tree is also a collection of vertices and edges. However, in tree data structure, there can only be one edge between two vertices.</p>
 
-<p>To learn more, visit <a href="/dsa/trees">Tree Data Structure</a>.</p>
+<p>To learn more, visit <a href="https://www.programiz.com/dsa/trees">Tree Data Structure</a>.</p>
 
 <figure><img alt="Tree data structure example" src="//cdn.programiz.com/cdn/farfuture/oJBsOWQ4sBd6DYjtaDq4MtU2fIxMWfuD-eMU0ePauIE/mtime:1623152223/sites/tutorial2program/files/tree_dsa.png" title="Tree data structure example" width="376" height="292"><figcaption>Tree data structure example</figcaption></figure><p><strong>Popular Tree based Data Structure</strong></p>
 
-<ul><li><a href="/dsa/binary-tree">Binary Tree</a></li>
-	<li><a href="/dsa/binary-search-tree">Binary Search Tree</a></li>
-	<li><a href="/dsa/avl-tree">AVL Tree</a></li>
-	<li><a href="/dsa/b-tree">B-Tree</a></li>
-	<li><a href="/dsa/b-plus-tree">B+ Tree</a></li>
-	<li><a href="/dsa/red-black-tree">Red-Black Tree</a></li>
+<ul><li><a href="https://www.programiz.com/dsa/binary-tree">Binary Tree</a></li>
+	<li><a href="https://www.programiz.com/dsa/binary-search-tree">Binary Search Tree</a></li>
+	<li><a href="https://www.programiz.com/dsa/avl-tree">AVL Tree</a></li>
+	<li><a href="https://www.programiz.com/dsa/b-tree">B-Tree</a></li>
+	<li><a href="https://www.programiz.com/dsa/b-plus-tree">B+ Tree</a></li>
+	<li><a href="https://www.programiz.com/dsa/red-black-tree">Red-Black Tree</a></li>
 </ul><hr><h2 id="difference">Linear Vs Non-linear Data Structures</h2>
 
 <p>Now that we know about linear and non-linear data structures, let's see the major differences between them.</p>
@@ -110,7 +109,7 @@
 
 <p>This helps you write memory and time efficient code.</p>
 
-<p>To learn more about the importance of data structure, visit <a href="/dsa/why-algorithms">Why Learn Data Structure?</a></p>
+<p>To learn more about the importance of data structure, visit <a href="https://www.programiz.com/dsa/why-algorithms">Why Learn Data Structure?</a></p>
   </div>
 
 </div>
